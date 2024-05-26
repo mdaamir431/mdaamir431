@@ -1,4 +1,4 @@
-# Hello, I'm Mohammad Aamir 👋
+# Hello, I'm Mohammad Aamir from India 👋
 
 I'm a passionate Full Stack Developer with experience in building web applications using JavaScript technologies. I love coding, learning new technologies, and sharing knowledge with the community.
 ## 🛠️ Technologies & Tools
