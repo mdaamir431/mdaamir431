@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with experience in building web applicatio
 - **Front-end:** React.js, HTML, CSS, JavaScript
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB
-- **Other:** Git, Docker, RESTful APIs, GraphQL
+- **Other:** Git, RESTful APIs
 
 ## 🌱 Currently Learning
 
