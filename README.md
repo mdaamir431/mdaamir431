@@ -18,7 +18,6 @@ I'm a passionate Full Stack Developer with experience in building web applicatio
 ## 🌱 Currently Learning
 
 - TypeScript
-- Next.js
 - AWS
 
 ## 🚀 Projects
@@ -38,8 +37,10 @@ A brief description of what this project does and its main features.
 - **Email:** [mdaamir12it@gmail.com](mailto:mdaamir12it@gmail.com)
 - **LinkedIn:** [Mohammad Aamir](https://www.linkedin.com/in/mohammad-aamir-a86637172)
 
+  
 ## 🌐 Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdaamir431-black?style=for-the-badge&logo=github)](https://github.com/mdaamir431)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Aamir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-aamir-a86637172)
+[![My Work](https://img.shields.io/badge/My%20Work-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://aamir-portfolio.vercel.app)
 
