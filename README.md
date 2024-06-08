@@ -42,5 +42,5 @@ A brief description of what this project does and its main features.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdaamir431-black?style=for-the-badge&logo=github)](https://github.com/mdaamir431)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Aamir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-aamir-a86637172)
-[![My Work](https://img.shields.io/badge/My%20Work-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://aamir-portfolio.vercel.app)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://aamir-portfolio.vercel.app)
 
